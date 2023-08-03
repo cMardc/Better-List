@@ -10,7 +10,7 @@
 <hr>
 <h2>Installation</h2>
 <h4>To make this working, first we must build executable, then we can add it as alias to execute from everywhere:</h4>
-<img src="img/installation.png" align="center" alt="Alt text" title="Installation">
+<img src="img/Installation.png" align="center" alt="Alt text" title="Installation">
 
 
 <hr>
